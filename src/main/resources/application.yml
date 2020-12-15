@@ -10,7 +10,7 @@ spring:
           password: luohan1997126
 #          basedir: D:/letter_spring-cloud-clients/config/basedir #配置下载到本地的路径
   rabbitmq:
-    host: 192.168.0.111
+    host: 192.168.18.73
     port: 5672
     username: guest
     password: guest
